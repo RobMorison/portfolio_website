@@ -1,0 +1,41 @@
+header {
+    position: sticky;
+    top: 0;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;    
+    background-color: black;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+
+.nav-links a {
+    text-decoration: none;  
+    color: white;
+}
+
+.nav-links a:hover {
+    background-color: white;
+    color: black;
+}
+
+.initials {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: red;
+}
+
+.logos {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}

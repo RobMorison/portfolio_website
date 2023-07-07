@@ -1,0 +1,19 @@
+.project-container {
+    border: 6px solid red;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    box-shadow: 5px 5px 5px whitesmoke;
+    padding: .5rem;
+}
+
+.project-grid {
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    align-items: start;
+    justify-items: center;
+}
+
