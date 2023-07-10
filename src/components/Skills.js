@@ -9,9 +9,9 @@ const Skills = () => {
             <SectionHeader title='Skills' />
             <div className='master-container'>
                 <div className='master-grid' >
-                    <div className='languages'>
+                    <div className='master-container'>
                         <p>Languages:</p>
-                        <div className='grid-container'>
+                        <div className='master-grid'>
                                 <div class='grid-item'>Python</div>
                                 <div class='grid-item'>JavaScript</div>
                                 <div class='grid-item'>HTML</div>
@@ -19,18 +19,18 @@ const Skills = () => {
                                 <div class='grid-item'>SQL</div>
                         </div>
                     </div>
-                    <div className='library'>
+                    <div className='master-container'>
                         <p>Libraries & Frameworks</p>
-                        <div className='grid-container'>
+                        <div className='master-grid'>
                             <div class='grid-item'>Django Rest Framework</div>
                             <div class='grid-item'>React.js</div>
                             <div class='grid-item'>Bootstrap</div>
                             <div class='grid-item'>Third-Party APIs</div>
                         </div>
                     </div>
-                    <div className='tools'>
+                    <div className='master-container'>
                         <p>Tools:</p>
-                        <div className='grid-container'>
+                        <div className='master-grid'>
                             <div class='grid-item'>Postman</div>
                             <div class='grid-item'>MySQL</div>
                             <div class='grid-item'>Visual Studio Code</div>
