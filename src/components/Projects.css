@@ -1,4 +1,6 @@
 .project-container {
+    width: 85%;
+    margin-left: 3%;
     border: 6px solid red;
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
@@ -16,4 +18,10 @@
     align-items: start;
     justify-items: center;
 }
+
+@media (max-width: 376px) {
+    .project-grid {
+      grid-template-columns: repeat(1,1fr);
+    }
+  }
 

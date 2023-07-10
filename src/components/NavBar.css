@@ -39,3 +39,9 @@ nav{
     gap: 1rem;
     margin-top: 1rem;
 }
+
+@media (max-width: 376px) {
+    .navbar {
+      width: 10%;
+    }
+  }

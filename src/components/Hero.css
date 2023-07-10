@@ -29,4 +29,13 @@
     left: 6rem;
 }
 
+@media (max-width: 376px) {
+    .bio {
+        width: 60%;
+        left: 1rem;
+        top: 15rem;
+        
+    }
+  }
+
 

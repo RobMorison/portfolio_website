@@ -7,8 +7,8 @@ const Skills = () => {
         <>
         <section id='skills'>
             <SectionHeader title='Skills' />
-            <div className='skills-container'>
-                <div className='skills' >
+            <div className='master-container'>
+                <div className='master-grid' >
                     <div className='languages'>
                         <p>Languages:</p>
                         <div className='grid-container'>
