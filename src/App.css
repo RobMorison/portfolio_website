@@ -66,7 +66,7 @@
   width: 90%;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 391px) {
   .master-grid {
     grid-template-columns: repeat(1,1fr);
   }

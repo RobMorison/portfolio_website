@@ -40,7 +40,7 @@ nav{
     margin-top: 1rem;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 391px) {
     .navbar {
       width: 10%;
     }

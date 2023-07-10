@@ -9,8 +9,8 @@ const Education = () => {
         <>
         <section id='education'>
             <SectionHeader title='Education'/>
-                <div className='master-container' >
-                    <div className='master-grid'>
+                <div className='ed-container' >
+                    <div className='education'>
                         <img src={devcodecamp} alt='devcodecamp logo'></img>
                         <div className="devinfo">
                             <h2>devCodeCamp</h2>
@@ -24,7 +24,7 @@ const Education = () => {
                             </p>
                         </div>
                     </div>
-                    <div className='master-grid'>
+                    <div className='education'>
                         <img src={ccsu} alt ='ccsu logo' height={100}></img>
                         <div className='devinfo'>
                         <h2>Central Connecticut State University</h2>

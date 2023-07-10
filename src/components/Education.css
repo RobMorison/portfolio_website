@@ -2,7 +2,7 @@
   display: grid;
   align-items: center;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2rem;
+  gap: 1rem;
   background-color: black;
   width: 80%;
   border: 6px solid red;
@@ -17,6 +17,7 @@
   border-top-left-radius: 2rem;
   border-top-right-radius: 2rem;
   box-shadow: 5px 5px 5px whitesmoke;
+  justify-items: center;
 }
 
 .ed-container {
@@ -27,7 +28,7 @@
   margin-left: 3%;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 391px) {
   .education {
     grid-template-columns: repeat(1,1fr);
   }
