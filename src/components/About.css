@@ -1,13 +1,14 @@
 .about {
     display: flex;
     flex-direction: row;
-    margin-left: 1rem;
+    margin-left: 3%;
+    width: 75%;
     justify-content: space-around;
 }
 
 .about-me {
     background-color: black;
-    width: 600px;
+    width: 90%;
     border: 6px solid red;
     padding: 50px;
     margin: 20px;
