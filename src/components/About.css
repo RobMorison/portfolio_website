@@ -21,7 +21,7 @@
     border-top-right-radius: 2rem;
 }
 
-@media (max-width: 391px) {
+@media (max-width: 830px) {
     .about {
         display: inline-block;
         width: 80%;

@@ -41,7 +41,7 @@ nav{
 }
 
 
-@media (max-width: 915px) {
+@media (max-width: 830px) {
 
     header {
         position: sticky;
