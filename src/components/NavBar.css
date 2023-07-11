@@ -40,8 +40,22 @@ nav{
     margin-top: 1rem;
 }
 
-@media (max-width: 391px) {
-    .navbar {
-      width: 10%;
+
+@media (max-width: 915px) {
+
+    header {
+        position: sticky;
+        top: 0;
     }
-  }
+    nav .nav-links {
+        display:none;
+    }
+
+    nav .toggle_btn{
+        display:block;
+    }
+
+    .dropdown_menu {
+        display: block;
+    }
+}
