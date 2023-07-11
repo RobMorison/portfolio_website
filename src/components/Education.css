@@ -26,6 +26,7 @@
   align-items: center;
   width: 80%;
   margin-left: 3%;
+  padding-right: 1%;
 }
 
 @media (max-width: 830px) {
