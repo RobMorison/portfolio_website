@@ -72,7 +72,8 @@
     display: grid;
     flex-direction: column;
     align-items: center;
-    width: 90%;
+    width: 95%;
+    padding: 3%;
   }
 
   .master-grid {
