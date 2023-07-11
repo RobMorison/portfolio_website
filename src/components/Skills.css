@@ -9,8 +9,8 @@
     background-color: black;
     width: 60%;
     border: 6px solid red;
-    padding: 50px;
-    margin: 20px;
+    padding: 5%;
+    margin: 5%;
     font-size: larger;
     font-weight: bolder;
     box-shadow: 5px 5px 5px whitesmoke;
@@ -42,6 +42,5 @@
     grid-template-columns: repeat(1,1fr);
     justify-items: start;
     width: 80%;
-    padding-right: 5%;
   }
 }
