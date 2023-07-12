@@ -83,3 +83,6 @@
     padding: 1%;
   }
 }
+section {
+  scroll-margin-top: 125px;
+}
