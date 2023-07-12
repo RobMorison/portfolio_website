@@ -9,6 +9,7 @@
     margin: .5rem;
     color: white;
     height: 500px;
+    z-index: 1;
 }
 
 .bio {
