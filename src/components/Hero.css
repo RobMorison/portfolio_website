@@ -9,7 +9,6 @@
     margin: .5rem;
     color: white;
     height: 500px;
-    z-index: 1;
 }
 
 .bio {
@@ -28,7 +27,6 @@
     position: relative;
     top: 14rem;
     left: 6rem;
-    z-index: 1;
 }
 
 @media (max-width: 830px) {
